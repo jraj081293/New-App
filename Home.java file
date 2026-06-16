@@ -1,5 +1,5 @@
 
-public class LoginService {
+public class LoginFlow {
 
     public void login() {
         System.out.println("Launch the app");
