@@ -6,16 +6,6 @@ public class LoginService {
         System.out.println("Enter the 6-digit PIN");
         System.out.println("Tap Sign In button");
         System.out.println("User navigates to Home screen");
-    }
 }
-
-public class LoginService {
-
-    public void login() {
-        System.out.println("Launch the app");
-        System.out.println("Enter the valid 6-digit PIN (validation required)");
-        System.out.println("Tap Sign In button");
-        System.out.println("User navigates to Home screen");
-    }
 }
 
