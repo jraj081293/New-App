@@ -1,0 +1,10 @@
+
+public class LoginService {
+
+    public void login() {
+        System.out.println("Launch the app");
+        System.out.println("Enter the 6-digit PIN");
+        System.out.println("Tap Sign In button");
+        System.out.println("User navigates to Home screen");
+    }
+}
