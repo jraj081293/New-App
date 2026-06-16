@@ -1,0 +1,9 @@
+
+public class LoginFlow {
+
+    public static final String LOGIN_STEPS =
+        "Launch the app\n" +
+        "Enter the 6digit pin code\n" +
+        "Tapping Sign In button and the Login to the app\n" +
+        "User navigates to Home screen";
+}
